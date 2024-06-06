@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @zoesidrim
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me: Instagram: zoesidrim 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a law degree :)
+- 👋 Oii, meu nome é Zoé Sidrim
+- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
+- 📫 Meu instagram é: zoesidrim 
+- 😄 Pronomes: ela/dela
+- ⚡ Fato curioso: Sou formada em Direito e estou migrando de carreira :)
 
 <!---
 zoesidrim/zoesidrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
