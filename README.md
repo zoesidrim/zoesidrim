@@ -1,5 +1,5 @@
 - 👋 Oii, meu nome é Zoé Sidrim
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
+- 🌱 Atualmente estou no 1º sementre de ADS na FIAP
 - 📫 Meu instagram é: zoesidrim 
 - 😄 Pronomes: ela/dela
 - ⚡ Fato curioso: Sou formada em Direito e estou migrando de carreira :)
